@@ -1,0 +1,14 @@
+C:\Users\Mehboob Shaikh\source\repos\EmployeeManagementApi\EmployeeBuisenessLayer\obj\Debug\netcoreapp2.1\EmployeeBuisenessLayer.csprojAssemblyReference.cache
+C:\Users\Mehboob Shaikh\source\repos\EmployeeManagementApi\EmployeeBuisenessLayer\obj\Debug\netcoreapp2.1\EmployeeBuisenessLayer.AssemblyInfoInputs.cache
+C:\Users\Mehboob Shaikh\source\repos\EmployeeManagementApi\EmployeeBuisenessLayer\obj\Debug\netcoreapp2.1\EmployeeBuisenessLayer.AssemblyInfo.cs
+C:\Users\Mehboob Shaikh\source\repos\EmployeeManagementApi\EmployeeBuisenessLayer\obj\Debug\netcoreapp2.1\EmployeeBuisenessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mehboob Shaikh\source\repos\EmployeeManagementApi\EmployeeBuisenessLayer\bin\Debug\netcoreapp2.1\EmployeeBuisenessLayer.deps.json
+C:\Users\Mehboob Shaikh\source\repos\EmployeeManagementApi\EmployeeBuisenessLayer\bin\Debug\netcoreapp2.1\EmployeeBuisenessLayer.dll
+C:\Users\Mehboob Shaikh\source\repos\EmployeeManagementApi\EmployeeBuisenessLayer\bin\Debug\netcoreapp2.1\EmployeeBuisenessLayer.pdb
+C:\Users\Mehboob Shaikh\source\repos\EmployeeManagementApi\EmployeeBuisenessLayer\bin\Debug\netcoreapp2.1\EmployeeCommonLayer.dll
+C:\Users\Mehboob Shaikh\source\repos\EmployeeManagementApi\EmployeeBuisenessLayer\bin\Debug\netcoreapp2.1\EmployeeRepositoryLayer.dll
+C:\Users\Mehboob Shaikh\source\repos\EmployeeManagementApi\EmployeeBuisenessLayer\bin\Debug\netcoreapp2.1\EmployeeCommonLayer.pdb
+C:\Users\Mehboob Shaikh\source\repos\EmployeeManagementApi\EmployeeBuisenessLayer\bin\Debug\netcoreapp2.1\EmployeeRepositoryLayer.pdb
+C:\Users\Mehboob Shaikh\source\repos\EmployeeManagementApi\EmployeeBuisenessLayer\obj\Debug\netcoreapp2.1\EmployeeBuisenessLayer.csproj.CopyComplete
+C:\Users\Mehboob Shaikh\source\repos\EmployeeManagementApi\EmployeeBuisenessLayer\obj\Debug\netcoreapp2.1\EmployeeBuisenessLayer.dll
+C:\Users\Mehboob Shaikh\source\repos\EmployeeManagementApi\EmployeeBuisenessLayer\obj\Debug\netcoreapp2.1\EmployeeBuisenessLayer.pdb

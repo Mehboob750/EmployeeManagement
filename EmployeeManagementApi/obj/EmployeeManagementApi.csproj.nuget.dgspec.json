@@ -1,0 +1,258 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Mehboob Shaikh\\source\\repos\\EmployeeManagementApi\\EmployeeManagementApi\\EmployeeManagementApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Mehboob Shaikh\\source\\repos\\EmployeeManagementApi\\EmployeeBuisenessLayer\\EmployeeBuisenessLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mehboob Shaikh\\source\\repos\\EmployeeManagementApi\\EmployeeBuisenessLayer\\EmployeeBuisenessLayer.csproj",
+        "projectName": "EmployeeBuisenessLayer",
+        "projectPath": "C:\\Users\\Mehboob Shaikh\\source\\repos\\EmployeeManagementApi\\EmployeeBuisenessLayer\\EmployeeBuisenessLayer.csproj",
+        "packagesPath": "C:\\Users\\Mehboob Shaikh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mehboob Shaikh\\source\\repos\\EmployeeManagementApi\\EmployeeBuisenessLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mehboob Shaikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Mehboob Shaikh\\source\\repos\\EmployeeManagementApi\\EmployeeCommonLayer\\EmployeeCommonLayer.csproj": {
+                "projectPath": "C:\\Users\\Mehboob Shaikh\\source\\repos\\EmployeeManagementApi\\EmployeeCommonLayer\\EmployeeCommonLayer.csproj"
+              },
+              "C:\\Users\\Mehboob Shaikh\\source\\repos\\EmployeeManagementApi\\EmployeeRepositoryLayer\\EmployeeRepositoryLayer.csproj": {
+                "projectPath": "C:\\Users\\Mehboob Shaikh\\source\\repos\\EmployeeManagementApi\\EmployeeRepositoryLayer\\EmployeeRepositoryLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mehboob Shaikh\\source\\repos\\EmployeeManagementApi\\EmployeeCommonLayer\\EmployeeCommonLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mehboob Shaikh\\source\\repos\\EmployeeManagementApi\\EmployeeCommonLayer\\EmployeeCommonLayer.csproj",
+        "projectName": "EmployeeCommonLayer",
+        "projectPath": "C:\\Users\\Mehboob Shaikh\\source\\repos\\EmployeeManagementApi\\EmployeeCommonLayer\\EmployeeCommonLayer.csproj",
+        "packagesPath": "C:\\Users\\Mehboob Shaikh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mehboob Shaikh\\source\\repos\\EmployeeManagementApi\\EmployeeCommonLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mehboob Shaikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mehboob Shaikh\\source\\repos\\EmployeeManagementApi\\EmployeeManagementApi\\EmployeeManagementApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mehboob Shaikh\\source\\repos\\EmployeeManagementApi\\EmployeeManagementApi\\EmployeeManagementApi.csproj",
+        "projectName": "EmployeeManagementApi",
+        "projectPath": "C:\\Users\\Mehboob Shaikh\\source\\repos\\EmployeeManagementApi\\EmployeeManagementApi\\EmployeeManagementApi.csproj",
+        "packagesPath": "C:\\Users\\Mehboob Shaikh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mehboob Shaikh\\source\\repos\\EmployeeManagementApi\\EmployeeManagementApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mehboob Shaikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Mehboob Shaikh\\source\\repos\\EmployeeManagementApi\\EmployeeBuisenessLayer\\EmployeeBuisenessLayer.csproj": {
+                "projectPath": "C:\\Users\\Mehboob Shaikh\\source\\repos\\EmployeeManagementApi\\EmployeeBuisenessLayer\\EmployeeBuisenessLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Mehboob Shaikh\\source\\repos\\EmployeeManagementApi\\EmployeeRepositoryLayer\\EmployeeRepositoryLayer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Mehboob Shaikh\\source\\repos\\EmployeeManagementApi\\EmployeeRepositoryLayer\\EmployeeRepositoryLayer.csproj",
+        "projectName": "EmployeeRepositoryLayer",
+        "projectPath": "C:\\Users\\Mehboob Shaikh\\source\\repos\\EmployeeManagementApi\\EmployeeRepositoryLayer\\EmployeeRepositoryLayer.csproj",
+        "packagesPath": "C:\\Users\\Mehboob Shaikh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Mehboob Shaikh\\source\\repos\\EmployeeManagementApi\\EmployeeRepositoryLayer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Mehboob Shaikh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Mehboob Shaikh\\source\\repos\\EmployeeManagementApi\\EmployeeCommonLayer\\EmployeeCommonLayer.csproj": {
+                "projectPath": "C:\\Users\\Mehboob Shaikh\\source\\repos\\EmployeeManagementApi\\EmployeeCommonLayer\\EmployeeCommonLayer.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "System.Data.SqlClient": {
+              "target": "Package",
+              "version": "[4.8.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

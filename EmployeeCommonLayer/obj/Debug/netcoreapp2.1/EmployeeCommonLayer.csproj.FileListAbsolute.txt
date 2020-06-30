@@ -1,0 +1,9 @@
+C:\Users\Mehboob Shaikh\source\repos\EmployeeManagementApi\EmployeeCommonLayer\bin\Debug\netcoreapp2.1\EmployeeCommonLayer.deps.json
+C:\Users\Mehboob Shaikh\source\repos\EmployeeManagementApi\EmployeeCommonLayer\bin\Debug\netcoreapp2.1\EmployeeCommonLayer.dll
+C:\Users\Mehboob Shaikh\source\repos\EmployeeManagementApi\EmployeeCommonLayer\bin\Debug\netcoreapp2.1\EmployeeCommonLayer.pdb
+C:\Users\Mehboob Shaikh\source\repos\EmployeeManagementApi\EmployeeCommonLayer\obj\Debug\netcoreapp2.1\EmployeeCommonLayer.AssemblyInfoInputs.cache
+C:\Users\Mehboob Shaikh\source\repos\EmployeeManagementApi\EmployeeCommonLayer\obj\Debug\netcoreapp2.1\EmployeeCommonLayer.AssemblyInfo.cs
+C:\Users\Mehboob Shaikh\source\repos\EmployeeManagementApi\EmployeeCommonLayer\obj\Debug\netcoreapp2.1\EmployeeCommonLayer.csproj.CoreCompileInputs.cache
+C:\Users\Mehboob Shaikh\source\repos\EmployeeManagementApi\EmployeeCommonLayer\obj\Debug\netcoreapp2.1\EmployeeCommonLayer.dll
+C:\Users\Mehboob Shaikh\source\repos\EmployeeManagementApi\EmployeeCommonLayer\obj\Debug\netcoreapp2.1\EmployeeCommonLayer.pdb
+C:\Users\Mehboob Shaikh\source\repos\EmployeeManagementApi\EmployeeCommonLayer\obj\Debug\netcoreapp2.1\EmployeeCommonLayer.csprojAssemblyReference.cache
